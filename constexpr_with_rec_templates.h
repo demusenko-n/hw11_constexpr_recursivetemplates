@@ -1,4 +1,5 @@
 #pragma once
+#include <cstddef>
 namespace constexpr_templ_ns
 {
 	template<size_t Power>

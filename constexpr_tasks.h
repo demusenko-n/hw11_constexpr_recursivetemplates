@@ -1,4 +1,5 @@
 ﻿#pragma once
+#include <cstddef>
 namespace constexpr_ns
 {
 	constexpr int max_int(size_t digits_amount)
